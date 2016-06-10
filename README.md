@@ -1,2 +1,10 @@
-# EJB-Project
-This is a class Assignment to work an implement all exercises in a tutorial
+# EjbTutorials
+This repo contains a running code of what is found in Ejb Tutorials from tutorials point
+
+#Requirements
+
+Java 8,
+Postgresql,
+Jboss application server 5, Linux environment
+
+
